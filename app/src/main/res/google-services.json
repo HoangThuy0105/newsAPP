@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1063018724868",
+    "firebase_url": "https://news-app-8e7bb-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "news-app-8e7bb",
+    "storage_bucket": "news-app-8e7bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063018724868:android:a921b50dc15638dcd33f51",
+        "android_client_info": {
+          "package_name": "hoangthuy.dmt.newsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063018724868-ta8qb6pleqeaqud08mphtj70ojtf8fv6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD29vvuk_JsMo7lA6bNb-AXVVIpt4caSjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063018724868-ta8qb6pleqeaqud08mphtj70ojtf8fv6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
